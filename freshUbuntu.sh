@@ -33,3 +33,5 @@ apt install -y wine winetricks
 
 # Windows fonts
 apt install msttcorefonts -y
+#add ping alias
+echo "alias p9="sudo apt-get update"" >> 
